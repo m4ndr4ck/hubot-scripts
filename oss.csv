@@ -1,5 +1,6 @@
 name,ring,quadrant,isNew,description  
-Docker,adote,ferramentas,TRUE,"Obrigatório para aplicações que seguem nova arquitetura."  
+Docker,adote,ferramentas,TRUE,"Obrigatório para aplicações que seguem nova arquitetura."
+Kubernetes,adote,ferramentas,TRUE,"Deve ser utilizado em conjunto com o Docker."
 Canary builds,experimente,técnicas,FALSE,"Many projects have external code dependencies ..."  
 Apache Kylin,avalie,plataformas,TRUE,"Apache Kylin is an open source analytics solution ..."  
 JSF,evite,linguagens & frameworks,FALSE,"JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo."  
