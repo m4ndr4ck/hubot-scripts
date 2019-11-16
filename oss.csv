@@ -7,4 +7,5 @@ Canary Release,avalie,técnicas,FALSE,"Por exemplo, faz deploy de uma nova vers�
 Arquitetura Hexagonal,experimente,técnicas,FALSE,"O objetivo dessa arquitetura é o desenvolvimento de software com a menor quantidade possível de débito técnico."
 Design Patterns para Microserviços,avalie,técnicas,FALSE,"Essa tema é muito importante pois sem o uso de boas práticas não é possível extrair vantagens no uso de microserviços."
 AWS S3,avalie,plataformas,TRUE,"Se trata do serviço de armazenamento da Amazon"  
-JSF,evite,linguagens & frameworks,FALSE,"JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo."  
+JSF,evite,linguagens & frameworks,FALSE,"JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo."
+Java 11,avalie,linguagens & frameworks,FALSE,"Na versão 11 do JDK é possível usar novo recurso de modularização para melhor administrar os JARs da aplicação."
