@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description  
-Composer,adopt,ferramentas,TRUE,"Although the idea of dependency management ..."  
-Canary builds,trial,técnicas,FALSE,"Many projects have external code dependencies ..."  
-Apache Kylin,assess,plataformas,TRUE,"Apache Kylin is an open source analytics solution ..."  
-JSF,hold,linguagens & frameworks,FALSE,"We continue to see teams run into trouble using JSF ..."  
+Composer,adote,ferramentas,TRUE,"Although the idea of dependency management ..."  
+Canary builds,experimente,técnicas,FALSE,"Many projects have external code dependencies ..."  
+Apache Kylin,avalie,plataformas,TRUE,"Apache Kylin is an open source analytics solution ..."  
+JSF,evite,linguagens & frameworks,FALSE,"JSF tem se mostrado cada vez mais complicado no desenvolvimento front-end. Devemos evitá-lo."  
